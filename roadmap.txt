@@ -1,18 +1,3 @@
-Bhai, ab main tumhe **student wala roadmap nahi**, balki **“agar main kisi AI Engineer / Software Developer ko hire kar raha hota, to usme kya dekhunga?”** us lens se roadmap de raha hoon.
-
-Maine current market signals bhi verify kiye hain. 2025 Stack Overflow survey me Python adoption sharply badhi; Docker ka usage jump hua, FastAPI bhi notably grow hua, aur AI tooling development workflow ka mainstream part ban chuka hai. GitHub ke 2025 Octoverse data me TypeScript GitHub par #1 language bani, lekin AI-focused repositories me Python clear leader raha—nearly half of new AI repositories primarily Python me the. Isliye tumhare liye **Python ko chhodna bilkul galat hoga**, lekin **TypeScript/JavaScript ka working knowledge** add karna smart move hai. ([Stack Overflow Developer Survey][1])
-
----
-
-# 🎯 Sabse pehle: Main tumhe hire kyun karunga?
-
-Agar meri company ko **AI Engineer + Software Developer** chahiye, to mujhe ye banda nahi chahiye jo:
-
-> “Bhai mujhe Python, Pandas, TensorFlow, LangChain, OpenAI, 20 certificates aate hain.”
-
-Mujhe aisa banda chahiye jo bol sake:
-
-> **“Business problem do → main requirement samjhunga → data/database design karunga → model/LLM choose karunga → API banaunga → UI integrate karunga → Dockerize karunga → deploy karunga → monitor karunga → aur production me debug bhi karunga.”**
 
 ### Hiring formula
 
