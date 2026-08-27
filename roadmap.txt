@@ -195,7 +195,7 @@ Python's own documentation treats classes as a core mechanism for bundling state
 * context managers
 * iterators
 * generators
-* decorators
+* decoratorsdfdf
 * closures
 
 ### Level 7
